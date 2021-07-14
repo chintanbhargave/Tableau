@@ -2,10 +2,12 @@
 
 This interactive visualization covers the basic concepts like :
 
-	1. Creating Custom Territories using 
-										1. Group Method
-										2. By Geographical Roles
+	1. Creating Custom Territories by using 
+		1. Groups
+		2. Geographical Roles
 
-	2. Highlighting the points without disturbing the underlying visualizations
-
-	3. Clustering data points, Saving the cluster to make it reusable adding trend lines to cluster groups to get additional insights
+	2. Highlighting the points without disturbing the underlying visualizations (highlighters)
+	3. Creating cross Database joins
+	4. Clustering analysis
+	5. Combine regression modeling with clustering
+	6. Save clusters for future analysis
